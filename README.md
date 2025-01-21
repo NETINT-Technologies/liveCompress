@@ -71,6 +71,9 @@ If you use this code in your research, please cite our paper:
 ```
 [Citation information to be added]
 ```
+## License
+
+This project is licensed under the BSD 3-Cause Clear License
 
 ## Acknowledgements
 
