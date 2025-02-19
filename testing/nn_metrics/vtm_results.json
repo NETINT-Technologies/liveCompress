@@ -1,0 +1,892 @@
+{
+  "39": [
+    {
+      "image_name": "kodim01",
+      "bpp": 0.2728271484375,
+      "psnr": 27.349969618568377,
+      "lpips": 0.3724603056907654,
+      "compression_time": 386.38632464408875,
+      "decompression_time": 0.509472131729126
+    },
+    {
+      "image_name": "kodim02",
+      "bpp": 0.07045491536458333,
+      "psnr": 30.8013398248136,
+      "lpips": 0.4410291910171509,
+      "compression_time": 151.6161117553711,
+      "decompression_time": 0.4575185775756836
+    },
+    {
+      "image_name": "kodim03",
+      "bpp": 0.08070882161458333,
+      "psnr": 32.39025546521159,
+      "lpips": 0.3917701244354248,
+      "compression_time": 130.29681491851807,
+      "decompression_time": 0.4527473449707031
+    },
+    {
+      "image_name": "kodim04",
+      "bpp": 0.09731038411458333,
+      "psnr": 30.628306474511273,
+      "lpips": 0.3827972412109375,
+      "compression_time": 163.50941133499146,
+      "decompression_time": 0.45488858222961426
+    },
+    {
+      "image_name": "kodim05",
+      "bpp": 0.36688232421875,
+      "psnr": 27.862273630511442,
+      "lpips": 0.23119252920150757,
+      "compression_time": 449.70724630355835,
+      "decompression_time": 0.5930030345916748
+    },
+    {
+      "image_name": "kodim07",
+      "bpp": 0.15726725260416666,
+      "psnr": 31.96279173768546,
+      "lpips": 0.2778221666812897,
+      "compression_time": 222.90241360664368,
+      "decompression_time": 0.5000216960906982
+    },
+    {
+      "image_name": "kodim08",
+      "bpp": 0.3458455403645833,
+      "psnr": 27.89154436487313,
+      "lpips": 0.2516469359397888,
+      "compression_time": 410.5586950778961,
+      "decompression_time": 0.5519449710845947
+    },
+    {
+      "image_name": "kodim09",
+      "bpp": 0.10371907552083333,
+      "psnr": 32.25536074068421,
+      "lpips": 0.37891748547554016,
+      "compression_time": 149.56967425346375,
+      "decompression_time": 0.45206737518310547
+    },
+    {
+      "image_name": "kodim10",
+      "bpp": 0.1090087890625,
+      "psnr": 31.895381696851686,
+      "lpips": 0.38091176748275757,
+      "compression_time": 160.82873129844666,
+      "decompression_time": 0.45923638343811035
+    },
+    {
+      "image_name": "kodim11",
+      "bpp": 0.16807047526041666,
+      "psnr": 29.46294359133048,
+      "lpips": 0.3796159029006958,
+      "compression_time": 246.236825466156,
+      "decompression_time": 0.48253679275512695
+    },
+    {
+      "image_name": "kodim12",
+      "bpp": 0.07741292317708333,
+      "psnr": 31.935091356316548,
+      "lpips": 0.42687350511550903,
+      "compression_time": 129.17660546302795,
+      "decompression_time": 0.44609737396240234
+    },
+    {
+      "image_name": "kodim13",
+      "bpp": 0.4747517903645833,
+      "psnr": 26.021519661789874,
+      "lpips": 0.38645419478416443,
+      "compression_time": 504.7499666213989,
+      "decompression_time": 0.5385646820068359
+    },
+    {
+      "image_name": "kodim15",
+      "bpp": 0.09543863932291667,
+      "psnr": 31.11494992316927,
+      "lpips": 0.37325194478034973,
+      "compression_time": 159.6978521347046,
+      "decompression_time": 0.4542527198791504
+    },
+    {
+      "image_name": "kodim16",
+      "bpp": 0.11553955078125,
+      "psnr": 30.57815396109061,
+      "lpips": 0.42904871702194214,
+      "compression_time": 172.98305773735046,
+      "decompression_time": 0.4427642822265625
+    },
+    {
+      "image_name": "kodim17",
+      "bpp": 0.13226318359375,
+      "psnr": 31.162804492286753,
+      "lpips": 0.3849329352378845,
+      "compression_time": 183.4134066104889,
+      "decompression_time": 0.452115535736084
+    },
+    {
+      "image_name": "kodim18",
+      "bpp": 0.2768961588541667,
+      "psnr": 28.124092857645657,
+      "lpips": 0.35775426030158997,
+      "compression_time": 361.1448187828064,
+      "decompression_time": 0.4950251579284668
+    },
+    {
+      "image_name": "kodim19",
+      "bpp": 0.1295166015625,
+      "psnr": 29.947973978726026,
+      "lpips": 0.4219542145729065,
+      "compression_time": 210.30374836921692,
+      "decompression_time": 0.45531344413757324
+    },
+    {
+      "image_name": "kodim20",
+      "bpp": 0.09405517578125,
+      "psnr": 31.64886424126169,
+      "lpips": 0.3056701421737671,
+      "compression_time": 148.89308953285217,
+      "decompression_time": 0.4502127170562744
+    },
+    {
+      "image_name": "kodim21",
+      "bpp": 0.21120198567708334,
+      "psnr": 29.32668966579312,
+      "lpips": 0.41428396105766296,
+      "compression_time": 262.3205008506775,
+      "decompression_time": 0.47327208518981934
+    },
+    {
+      "image_name": "kodim22",
+      "bpp": 0.15077718098958334,
+      "psnr": 29.03926059491596,
+      "lpips": 0.42729082703590393,
+      "compression_time": 261.6443135738373,
+      "decompression_time": 0.48140549659729004
+    },
+    {
+      "image_name": "kodim23",
+      "bpp": 0.0906982421875,
+      "psnr": 33.02500868085514,
+      "lpips": 0.343860387802124,
+      "compression_time": 136.38345575332642,
+      "decompression_time": 0.4519667625427246
+    },
+    {
+      "image_name": "kodim24",
+      "bpp": 0.2812906901041667,
+      "psnr": 28.336608876745647,
+      "lpips": 0.33254319429397583,
+      "compression_time": 338.79895853996277,
+      "decompression_time": 0.6111443042755127
+    }
+  ],
+  "36": [
+    {
+      "image_name": "kodim01",
+      "bpp": 0.4700520833333333,
+      "psnr": 29.326713666657355,
+      "lpips": 0.2594556510448456,
+      "compression_time": 490.643084526062,
+      "decompression_time": 0.5780117511749268
+    },
+    {
+      "image_name": "kodim02",
+      "bpp": 0.12833658854166666,
+      "psnr": 32.111025911580384,
+      "lpips": 0.39618539810180664,
+      "compression_time": 236.71881341934204,
+      "decompression_time": 0.4754312038421631
+    },
+    {
+      "image_name": "kodim03",
+      "bpp": 0.12961832682291666,
+      "psnr": 34.08212148386773,
+      "lpips": 0.3446289002895355,
+      "compression_time": 184.13046789169312,
+      "decompression_time": 0.48414182662963867
+    },
+    {
+      "image_name": "kodim04",
+      "bpp": 0.1630859375,
+      "psnr": 32.12856641327726,
+      "lpips": 0.32653018832206726,
+      "compression_time": 247.86901950836182,
+      "decompression_time": 0.5402421951293945
+    },
+    {
+      "image_name": "kodim05",
+      "bpp": 0.5369873046875,
+      "psnr": 29.842107381656596,
+      "lpips": 0.1652713567018509,
+      "compression_time": 522.8820133209229,
+      "decompression_time": 0.649834394454956
+    },
+    {
+      "image_name": "kodim07",
+      "bpp": 0.22540283203125,
+      "psnr": 33.796838022245595,
+      "lpips": 0.23567359149456024,
+      "compression_time": 292.7871859073639,
+      "decompression_time": 0.5460488796234131
+    },
+    {
+      "image_name": "kodim08",
+      "bpp": 0.5073445638020834,
+      "psnr": 29.79770927365688,
+      "lpips": 0.19950446486473083,
+      "compression_time": 494.9879631996155,
+      "decompression_time": 0.6113314628601074
+    },
+    {
+      "image_name": "kodim09",
+      "bpp": 0.15450032552083334,
+      "psnr": 33.866290923909006,
+      "lpips": 0.3469061851501465,
+      "compression_time": 193.75565004348755,
+      "decompression_time": 0.477736234664917
+    },
+    {
+      "image_name": "kodim10",
+      "bpp": 0.16135660807291666,
+      "psnr": 33.50087329247719,
+      "lpips": 0.3302740454673767,
+      "compression_time": 214.1010866165161,
+      "decompression_time": 0.5003077983856201
+    },
+    {
+      "image_name": "kodim11",
+      "bpp": 0.2693684895833333,
+      "psnr": 31.123338025989305,
+      "lpips": 0.31347131729125977,
+      "compression_time": 333.4978985786438,
+      "decompression_time": 0.5174496173858643
+    },
+    {
+      "image_name": "kodim12",
+      "bpp": 0.12611897786458334,
+      "psnr": 33.2818503327511,
+      "lpips": 0.3771226406097412,
+      "compression_time": 196.67159271240234,
+      "decompression_time": 0.4725167751312256
+    },
+    {
+      "image_name": "kodim13",
+      "bpp": 0.7623291015625,
+      "psnr": 28.102472184961556,
+      "lpips": 0.2838553190231323,
+      "compression_time": 618.6575791835785,
+      "decompression_time": 0.6759226322174072
+    },
+    {
+      "image_name": "kodim15",
+      "bpp": 0.15736897786458334,
+      "psnr": 32.54694317084724,
+      "lpips": 0.3333820700645447,
+      "compression_time": 231.98974061012268,
+      "decompression_time": 0.5008318424224854
+    },
+    {
+      "image_name": "kodim16",
+      "bpp": 0.19415283203125,
+      "psnr": 32.189299841274575,
+      "lpips": 0.3605208992958069,
+      "compression_time": 247.03319454193115,
+      "decompression_time": 0.47472238540649414
+    },
+    {
+      "image_name": "kodim17",
+      "bpp": 0.19789632161458334,
+      "psnr": 32.76419908258574,
+      "lpips": 0.3305462896823883,
+      "compression_time": 252.25280237197876,
+      "decompression_time": 0.5105061531066895
+    },
+    {
+      "image_name": "kodim18",
+      "bpp": 0.4407958984375,
+      "psnr": 29.999375224347453,
+      "lpips": 0.28942301869392395,
+      "compression_time": 461.55464601516724,
+      "decompression_time": 0.5567994117736816
+    },
+    {
+      "image_name": "kodim19",
+      "bpp": 0.21512858072916666,
+      "psnr": 31.468249469578364,
+      "lpips": 0.3508826494216919,
+      "compression_time": 292.87029910087585,
+      "decompression_time": 0.49211883544921875
+    },
+    {
+      "image_name": "kodim20",
+      "bpp": 0.14827473958333334,
+      "psnr": 33.10620431088191,
+      "lpips": 0.2665536403656006,
+      "compression_time": 205.1671576499939,
+      "decompression_time": 0.479708194732666
+    },
+    {
+      "image_name": "kodim21",
+      "bpp": 0.3291422526041667,
+      "psnr": 31.18642772188352,
+      "lpips": 0.3525678515434265,
+      "compression_time": 320.82561445236206,
+      "decompression_time": 0.5129659175872803
+    },
+    {
+      "image_name": "kodim22",
+      "bpp": 0.2609659830729167,
+      "psnr": 30.646724032037604,
+      "lpips": 0.3517765700817108,
+      "compression_time": 374.6130681037903,
+      "decompression_time": 0.5170567035675049
+    },
+    {
+      "image_name": "kodim23",
+      "bpp": 0.1317138671875,
+      "psnr": 34.509661090053214,
+      "lpips": 0.3113112449645996,
+      "compression_time": 187.46810936927795,
+      "decompression_time": 0.49651646614074707
+    },
+    {
+      "image_name": "kodim24",
+      "bpp": 0.4334309895833333,
+      "psnr": 30.26382806533308,
+      "lpips": 0.25853410363197327,
+      "compression_time": 436.12718319892883,
+      "decompression_time": 0.838064432144165
+    }
+  ],
+  "33": [
+    {
+      "image_name": "kodim01",
+      "bpp": 0.7311604817708334,
+      "psnr": 31.441825335633524,
+      "lpips": 0.1684422791004181,
+      "compression_time": 572.4932224750519,
+      "decompression_time": 0.617211103439331
+    },
+    {
+      "image_name": "kodim02",
+      "bpp": 0.22454833984375,
+      "psnr": 33.61558592401487,
+      "lpips": 0.3351200222969055,
+      "compression_time": 355.96919345855713,
+      "decompression_time": 0.524132251739502
+    },
+    {
+      "image_name": "kodim03",
+      "bpp": 0.19679768880208334,
+      "psnr": 35.646318063313466,
+      "lpips": 0.30347704887390137,
+      "compression_time": 234.36141276359558,
+      "decompression_time": 0.516387939453125
+    },
+    {
+      "image_name": "kodim04",
+      "bpp": 0.2640787760416667,
+      "psnr": 33.616081508569735,
+      "lpips": 0.2789517641067505,
+      "compression_time": 342.44767665863037,
+      "decompression_time": 0.5174059867858887
+    },
+    {
+      "image_name": "kodim05",
+      "bpp": 0.7684326171875,
+      "psnr": 31.9283315025311,
+      "lpips": 0.10757554322481155,
+      "compression_time": 609.2055377960205,
+      "decompression_time": 0.714653730392456
+    },
+    {
+      "image_name": "kodim07",
+      "bpp": 0.3118693033854167,
+      "psnr": 35.55434042543291,
+      "lpips": 0.20469868183135986,
+      "compression_time": 350.78315448760986,
+      "decompression_time": 0.6248180866241455
+    },
+    {
+      "image_name": "kodim08",
+      "bpp": 0.71514892578125,
+      "psnr": 31.64393004732854,
+      "lpips": 0.15762333571910858,
+      "compression_time": 600.9307770729065,
+      "decompression_time": 0.6756649017333984
+    },
+    {
+      "image_name": "kodim09",
+      "bpp": 0.22542317708333334,
+      "psnr": 35.432754453843124,
+      "lpips": 0.31061896681785583,
+      "compression_time": 246.96485424041748,
+      "decompression_time": 0.5042197704315186
+    },
+    {
+      "image_name": "kodim10",
+      "bpp": 0.23288981119791666,
+      "psnr": 35.057601648236144,
+      "lpips": 0.2854295074939728,
+      "compression_time": 281.6529314517975,
+      "decompression_time": 0.5154049396514893
+    },
+    {
+      "image_name": "kodim11",
+      "bpp": 0.4207967122395833,
+      "psnr": 32.93670066804708,
+      "lpips": 0.25094473361968994,
+      "compression_time": 446.1936764717102,
+      "decompression_time": 0.5661818981170654
+    },
+    {
+      "image_name": "kodim12",
+      "bpp": 0.20322672526041666,
+      "psnr": 34.73168956435073,
+      "lpips": 0.3189567029476166,
+      "compression_time": 269.21741938591003,
+      "decompression_time": 0.4979743957519531
+    },
+    {
+      "image_name": "kodim13",
+      "bpp": 1.1351318359375,
+      "psnr": 30.340176390134413,
+      "lpips": 0.18429476022720337,
+      "compression_time": 728.4156017303467,
+      "decompression_time": 0.648078203201294
+    },
+    {
+      "image_name": "kodim15",
+      "bpp": 0.2490234375,
+      "psnr": 34.0565692011892,
+      "lpips": 0.2868441045284271,
+      "compression_time": 310.1865985393524,
+      "decompression_time": 0.6573903560638428
+    },
+    {
+      "image_name": "kodim16",
+      "bpp": 0.30841064453125,
+      "psnr": 33.88560571593234,
+      "lpips": 0.2903454005718231,
+      "compression_time": 329.6615960597992,
+      "decompression_time": 0.5102946758270264
+    },
+    {
+      "image_name": "kodim17",
+      "bpp": 0.2906290690104167,
+      "psnr": 34.30724163691357,
+      "lpips": 0.28310686349868774,
+      "compression_time": 345.60140681266785,
+      "decompression_time": 0.534409761428833
+    },
+    {
+      "image_name": "kodim18",
+      "bpp": 0.6483561197916666,
+      "psnr": 31.877126690827424,
+      "lpips": 0.2309456765651703,
+      "compression_time": 559.9572741985321,
+      "decompression_time": 0.602771520614624
+    },
+    {
+      "image_name": "kodim19",
+      "bpp": 0.3485921223958333,
+      "psnr": 33.14236334967413,
+      "lpips": 0.29325035214424133,
+      "compression_time": 377.47711634635925,
+      "decompression_time": 0.5177476406097412
+    },
+    {
+      "image_name": "kodim20",
+      "bpp": 0.23630777994791666,
+      "psnr": 34.73160776447377,
+      "lpips": 0.2230413258075714,
+      "compression_time": 272.3345823287964,
+      "decompression_time": 0.51839280128479
+    },
+    {
+      "image_name": "kodim21",
+      "bpp": 0.4859212239583333,
+      "psnr": 33.08763362978834,
+      "lpips": 0.3031010925769806,
+      "compression_time": 401.51847529411316,
+      "decompression_time": 0.543208122253418
+    },
+    {
+      "image_name": "kodim22",
+      "bpp": 0.4294026692708333,
+      "psnr": 32.3919998967812,
+      "lpips": 0.2734260559082031,
+      "compression_time": 502.5679922103882,
+      "decompression_time": 0.5646965503692627
+    },
+    {
+      "image_name": "kodim23",
+      "bpp": 0.1890869140625,
+      "psnr": 35.9342719586081,
+      "lpips": 0.2793400287628174,
+      "compression_time": 259.0708727836609,
+      "decompression_time": 0.5113089084625244
+    },
+    {
+      "image_name": "kodim24",
+      "bpp": 0.6316731770833334,
+      "psnr": 32.2381909585439,
+      "lpips": 0.19399705529212952,
+      "compression_time": 526.0343787670135,
+      "decompression_time": 0.6166620254516602
+    }
+  ],
+  "30": [
+    {
+      "image_name": "kodim01",
+      "bpp": 1.0660196940104167,
+      "psnr": 33.72082954356409,
+      "lpips": 0.10675802081823349,
+      "compression_time": 650.0700259208679,
+      "decompression_time": 0.6565709114074707
+    },
+    {
+      "image_name": "kodim02",
+      "bpp": 0.3673095703125,
+      "psnr": 35.11966875450155,
+      "lpips": 0.2703329026699066,
+      "compression_time": 475.3259274959564,
+      "decompression_time": 0.5768394470214844
+    },
+    {
+      "image_name": "kodim03",
+      "bpp": 0.2919921875,
+      "psnr": 37.20468321357562,
+      "lpips": 0.26284438371658325,
+      "compression_time": 282.9427635669708,
+      "decompression_time": 0.5475625991821289
+    },
+    {
+      "image_name": "kodim04",
+      "bpp": 0.4172159830729167,
+      "psnr": 35.263810611560324,
+      "lpips": 0.22566603124141693,
+      "compression_time": 428.792494058609,
+      "decompression_time": 0.5581274032592773
+    },
+    {
+      "image_name": "kodim05",
+      "bpp": 1.0527547200520833,
+      "psnr": 33.95233496483685,
+      "lpips": 0.07074818015098572,
+      "compression_time": 669.5313212871552,
+      "decompression_time": 0.755202054977417
+    },
+    {
+      "image_name": "kodim07",
+      "bpp": 0.4269612630208333,
+      "psnr": 37.211162242239716,
+      "lpips": 0.17556500434875488,
+      "compression_time": 384.8806891441345,
+      "decompression_time": 0.6160345077514648
+    },
+    {
+      "image_name": "kodim08",
+      "bpp": 0.9927775065104166,
+      "psnr": 33.55407062406567,
+      "lpips": 0.12013793736696243,
+      "compression_time": 684.2188138961792,
+      "decompression_time": 0.7204093933105469
+    },
+    {
+      "image_name": "kodim09",
+      "bpp": 0.3138020833333333,
+      "psnr": 36.80459870362695,
+      "lpips": 0.28494516015052795,
+      "compression_time": 297.4388587474823,
+      "decompression_time": 0.5271732807159424
+    },
+    {
+      "image_name": "kodim10",
+      "bpp": 0.33197021484375,
+      "psnr": 36.441595300199,
+      "lpips": 0.24455277621746063,
+      "compression_time": 333.84742307662964,
+      "decompression_time": 0.5680429935455322
+    },
+    {
+      "image_name": "kodim11",
+      "bpp": 0.6246541341145834,
+      "psnr": 34.73008111617516,
+      "lpips": 0.1971607804298401,
+      "compression_time": 521.3437604904175,
+      "decompression_time": 0.6081893444061279
+    },
+    {
+      "image_name": "kodim12",
+      "bpp": 0.3142496744791667,
+      "psnr": 36.15793018206254,
+      "lpips": 0.26870933175086975,
+      "compression_time": 344.9055988788605,
+      "decompression_time": 0.5364556312561035
+    },
+    {
+      "image_name": "kodim13",
+      "bpp": 1.5900675455729167,
+      "psnr": 32.66850126303676,
+      "lpips": 0.10770769417285919,
+      "compression_time": 822.8394355773926,
+      "decompression_time": 0.7075965404510498
+    },
+    {
+      "image_name": "kodim15",
+      "bpp": 0.3913370768229167,
+      "psnr": 35.65279987515004,
+      "lpips": 0.24717745184898376,
+      "compression_time": 390.25186586380005,
+      "decompression_time": 0.547076940536499
+    },
+    {
+      "image_name": "kodim16",
+      "bpp": 0.4677530924479167,
+      "psnr": 35.63556058871788,
+      "lpips": 0.22345563769340515,
+      "compression_time": 402.2171289920807,
+      "decompression_time": 0.5554609298706055
+    },
+    {
+      "image_name": "kodim17",
+      "bpp": 0.424072265625,
+      "psnr": 35.90732568109436,
+      "lpips": 0.23293638229370117,
+      "compression_time": 395.41636085510254,
+      "decompression_time": 0.5823640823364258
+    },
+    {
+      "image_name": "kodim18",
+      "bpp": 0.9197184244791666,
+      "psnr": 33.74948295385761,
+      "lpips": 0.18263086676597595,
+      "compression_time": 661.8824121952057,
+      "decompression_time": 0.6826765537261963
+    },
+    {
+      "image_name": "kodim19",
+      "bpp": 0.5409342447916666,
+      "psnr": 34.94234318700776,
+      "lpips": 0.22562147676944733,
+      "compression_time": 441.7395317554474,
+      "decompression_time": 0.5503380298614502
+    },
+    {
+      "image_name": "kodim20",
+      "bpp": 0.36077880859375,
+      "psnr": 36.417443168390456,
+      "lpips": 0.19218020141124725,
+      "compression_time": 318.9098320007324,
+      "decompression_time": 0.5383603572845459
+    },
+    {
+      "image_name": "kodim21",
+      "bpp": 0.6872762044270834,
+      "psnr": 34.966873859541934,
+      "lpips": 0.2581675350666046,
+      "compression_time": 446.8688795566559,
+      "decompression_time": 0.5755093097686768
+    },
+    {
+      "image_name": "kodim22",
+      "bpp": 0.6618855794270834,
+      "psnr": 34.213557989690145,
+      "lpips": 0.20964723825454712,
+      "compression_time": 582.4383480548859,
+      "decompression_time": 0.6188461780548096
+    },
+    {
+      "image_name": "kodim23",
+      "bpp": 0.26690673828125,
+      "psnr": 37.284531713074216,
+      "lpips": 0.25233927369117737,
+      "compression_time": 313.66298818588257,
+      "decompression_time": 0.5341372489929199
+    },
+    {
+      "image_name": "kodim24",
+      "bpp": 0.9005330403645834,
+      "psnr": 34.378346460686565,
+      "lpips": 0.14014707505702972,
+      "compression_time": 592.2664678096771,
+      "decompression_time": 0.6829571723937988
+    }
+  ],
+  "27": [
+    {
+      "image_name": "kodim01",
+      "bpp": 1.4565226236979167,
+      "psnr": 35.90100068156783,
+      "lpips": 0.07250089943408966,
+      "compression_time": 738.888097524643,
+      "decompression_time": 0.6901698112487793
+    },
+    {
+      "image_name": "kodim02",
+      "bpp": 0.57818603515625,
+      "psnr": 36.68035768153534,
+      "lpips": 0.2114066779613495,
+      "compression_time": 617.922036409378,
+      "decompression_time": 0.6174211502075195
+    },
+    {
+      "image_name": "kodim03",
+      "bpp": 0.4152628580729167,
+      "psnr": 38.61820747408174,
+      "lpips": 0.22501203417778015,
+      "compression_time": 365.4907019138336,
+      "decompression_time": 0.5741050243377686
+    },
+    {
+      "image_name": "kodim04",
+      "bpp": 0.6300252278645834,
+      "psnr": 36.90361199440568,
+      "lpips": 0.18108747899532318,
+      "compression_time": 563.8290798664093,
+      "decompression_time": 0.6018679141998291
+    },
+    {
+      "image_name": "kodim05",
+      "bpp": 1.4030354817708333,
+      "psnr": 35.93359464928713,
+      "lpips": 0.04696321487426758,
+      "compression_time": 736.9859375953674,
+      "decompression_time": 0.8517978191375732
+    },
+    {
+      "image_name": "kodim07",
+      "bpp": 0.5761515299479166,
+      "psnr": 38.64728540651471,
+      "lpips": 0.15264847874641418,
+      "compression_time": 480.9217095375061,
+      "decompression_time": 0.6486375331878662
+    },
+    {
+      "image_name": "kodim08",
+      "bpp": 1.3558349609375,
+      "psnr": 35.44544758348324,
+      "lpips": 0.08232391625642776,
+      "compression_time": 811.7929975986481,
+      "decompression_time": 0.7523074150085449
+    },
+    {
+      "image_name": "kodim09",
+      "bpp": 0.4309895833333333,
+      "psnr": 38.01511349747534,
+      "lpips": 0.25863468647003174,
+      "compression_time": 382.35949325561523,
+      "decompression_time": 0.5516037940979004
+    },
+    {
+      "image_name": "kodim10",
+      "bpp": 0.4614461263020833,
+      "psnr": 37.78353288896548,
+      "lpips": 0.21028491854667664,
+      "compression_time": 454.866010427475,
+      "decompression_time": 0.6053617000579834
+    },
+    {
+      "image_name": "kodim11",
+      "bpp": 0.89141845703125,
+      "psnr": 36.52893793015089,
+      "lpips": 0.14741745591163635,
+      "compression_time": 635.8722622394562,
+      "decompression_time": 0.6433045864105225
+    },
+    {
+      "image_name": "kodim12",
+      "bpp": 0.4757486979166667,
+      "psnr": 37.61415777718484,
+      "lpips": 0.21223799884319305,
+      "compression_time": 452.0453953742981,
+      "decompression_time": 0.5746238231658936
+    },
+    {
+      "image_name": "kodim13",
+      "bpp": 2.1182454427083335,
+      "psnr": 34.95617014945257,
+      "lpips": 0.061356864869594574,
+      "compression_time": 906.2632672786713,
+      "decompression_time": 0.7534844875335693
+    },
+    {
+      "image_name": "kodim15",
+      "bpp": 0.5857340494791666,
+      "psnr": 37.21519277420261,
+      "lpips": 0.20363859832286835,
+      "compression_time": 471.9045422077179,
+      "decompression_time": 0.658026933670044
+    },
+    {
+      "image_name": "kodim16",
+      "bpp": 0.6763102213541666,
+      "psnr": 37.3808388463853,
+      "lpips": 0.17368148267269135,
+      "compression_time": 489.3143193721771,
+      "decompression_time": 0.5743672847747803
+    },
+    {
+      "image_name": "kodim17",
+      "bpp": 0.6016642252604166,
+      "psnr": 37.409868877350334,
+      "lpips": 0.1933651864528656,
+      "compression_time": 496.05967235565186,
+      "decompression_time": 0.6154825687408447
+    },
+    {
+      "image_name": "kodim18",
+      "bpp": 1.2622477213541667,
+      "psnr": 35.56302821789241,
+      "lpips": 0.14263123273849487,
+      "compression_time": 772.5074977874756,
+      "decompression_time": 0.6809840202331543
+    },
+    {
+      "image_name": "kodim19",
+      "bpp": 0.7907918294270834,
+      "psnr": 36.68436541726637,
+      "lpips": 0.1780288964509964,
+      "compression_time": 553.1054792404175,
+      "decompression_time": 0.5834743976593018
+    },
+    {
+      "image_name": "kodim20",
+      "bpp": 0.5223795572916666,
+      "psnr": 37.95447056939511,
+      "lpips": 0.16654863953590393,
+      "compression_time": 386.5536992549896,
+      "decompression_time": 0.5756630897521973
+    },
+    {
+      "image_name": "kodim21",
+      "bpp": 0.9337158203125,
+      "psnr": 36.72992910150166,
+      "lpips": 0.22705037891864777,
+      "compression_time": 536.5043613910675,
+      "decompression_time": 0.6082208156585693
+    },
+    {
+      "image_name": "kodim22",
+      "bpp": 0.96435546875,
+      "psnr": 36.06384766426705,
+      "lpips": 0.15241892635822296,
+      "compression_time": 720.6457948684692,
+      "decompression_time": 0.6417152881622314
+    },
+    {
+      "image_name": "kodim23",
+      "bpp": 0.37579345703125,
+      "psnr": 38.49811427117783,
+      "lpips": 0.22326752543449402,
+      "compression_time": 405.3309419155121,
+      "decompression_time": 0.5710306167602539
+    },
+    {
+      "image_name": "kodim24",
+      "bpp": 1.2143351236979167,
+      "psnr": 36.345923499507734,
+      "lpips": 0.0997903123497963,
+      "compression_time": 715.7089161872864,
+      "decompression_time": 0.7125670909881592
+    }
+  ]
+}
