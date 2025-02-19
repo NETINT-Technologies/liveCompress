@@ -10,7 +10,7 @@ from utils.process_image import process_image
 from utils.load_checkpoints import load_checkpoints
 import sys
 sys.path.append('..')
-from model import newModel
+from model.model import liveModel
 import argparse
 
 register_heif_opener()
@@ -84,7 +84,7 @@ ae = AutoencoderKL.from_pretrained("stabilityai/sd-vae-ft-mse")
 ae = ae.to(device)
 
 
-net = newModel(N=24, M=36).eval().to(device) 
+net = liveModel(N=24, M=36).eval().to(device) 
 load_checkpoints(MODEL_PATH, net, device)
 
 images_path = os.path.expanduser('../kodak')

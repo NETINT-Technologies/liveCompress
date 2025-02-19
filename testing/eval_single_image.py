@@ -17,7 +17,7 @@ from utils.metric_calculation import calculate_bpp
 from utils.load_checkpoints import load_checkpoints
 import sys
 sys.path.append('..')
-from model import newModel
+from model.model import liveModel
 from utils.preprocess_image import preprocess_image
 from utils.process_image import process_image
 
@@ -38,7 +38,7 @@ IMAGE_FILE = args.image
 ae = AutoencoderKL.from_pretrained("stabilityai/sdxl-vae")
 ae = ae.to(device)
 
-net = newModel(N=24, M=36).eval().to(device)
+net = liveModel(N=24, M=36).eval().to(device)
 load_checkpoints(CHECKPOINT, net, device)
 
 images_path = '../kodak'

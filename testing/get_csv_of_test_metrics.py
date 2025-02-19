@@ -16,7 +16,7 @@ from utils.load_checkpoints import load_checkpoints
 from utils.process_image import process_image
 import sys
 sys.path.append('..')
-from model import newModel
+from model.model import liveModel
 
 register_heif_opener()
 
@@ -24,7 +24,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 # Function to process images and calculate metrics
 def process_images(checkpoint_path):
-    net = newModel(N=24, M=36).to(device)
+    net = liveModel(N=24, M=36).to(device)
     load_checkpoints(checkpoint_path, net, device)
     print(f'Processing checkpoint: {checkpoint_path}')
 
@@ -50,7 +50,8 @@ def process_images(checkpoint_path):
 
 def generate_csvs(metrics_by_checkpoint: dict[str, dict[str, dict[str, list]]]):
     # First, create a list of column names (one for each image in the Kodak dataset)
-    column_names = [f'kodim{str(i).zfill(2)}' for i in range(1, 25)]
+    column_names = [img_name for img_name in os.listdir(images_path)]
+    column_names.remove('readme.md')
 
     # Initialize empty DataFrames with the correct columns
     bpp_df = pd.DataFrame(columns=column_names)
