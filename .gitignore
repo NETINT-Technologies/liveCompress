@@ -148,6 +148,7 @@ old_latent_diffusion
 *.jpeg
 *.webp
 *.tar
+!checkpoints/*.tar
 *.heic
 *.heif
 *.live
@@ -163,7 +164,5 @@ train_bk
 testing/outputs
 VVCSoftware_VTM/
 training/train/sequences
-checkpoints
 kodak/*.png
-
 demo/
